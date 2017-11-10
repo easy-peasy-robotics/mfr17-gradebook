@@ -4,9 +4,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_yarp-find-rgb-vvv-school-bot](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-vvv-school-bot) | :x: | **0** |
+| [assignment_yarp-find-rgb-vvv-school-bot](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-vvv-school-bot) | :white_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
