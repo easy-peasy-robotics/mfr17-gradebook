@@ -1,0 +1,41 @@
+{
+    "tutorials": [
+        {
+            "name": "tutorial_yarp-basics",
+            "url": "https://github.com/vvv-school/tutorial_yarp-basics.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_yarp-opencv",
+            "url": "https://github.com/vvv-school/tutorial_yarp-opencv.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_find-wally",
+            "url": "https://github.com/vvv-school/tutorial_find-wally.git",
+            "score": 2
+        }        
+    ],
+    "assignments": [
+        {
+            "name": "assignment_git",
+            "url": "https://github.com/vvv-school/assignment_git.git",
+            "score": 1
+        },
+        {
+            "name": "assignment_yarp-find-rgb",
+            "url": "https://github.com/vvv-school/assignment_yarp-find-rgb.git",
+            "score": 5
+        },
+        {
+            "name": "assignment_control-pid",
+            "url": "https://github.com/vvv-school/assignment_control-pid.git",
+            "score": 5
+        },
+        {
+            "name": "assignment_closest-blob",
+            "url": "https://github.com/vvv-school/assignment_closest-blob.git",
+            "score": 5
+        }
+    ]
+}
