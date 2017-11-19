@@ -2,6 +2,10 @@
 
 ### [**ilnerdchuck**](https://github.com/ilnerdchuck) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-ilnerdchuck](https://github.com/easy-peasy-robotics/assignment_git-ilnerdchuck) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
