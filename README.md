@@ -13,6 +13,10 @@
 
 ### [**joseph280**](https://github.com/joseph280) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-joseph280](https://github.com/easy-peasy-robotics/assignment_git-joseph280) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
