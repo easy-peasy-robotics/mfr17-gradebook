@@ -15,9 +15,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-joseph280](https://github.com/easy-peasy-robotics/assignment_git-joseph280) | :x: | **0** |
+| [assignment_git-joseph280](https://github.com/easy-peasy-robotics/assignment_git-joseph280) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
