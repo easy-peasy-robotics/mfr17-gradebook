@@ -46,6 +46,10 @@
 
 ### [**robertorovella91**](https://github.com/robertorovella91) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-robertorovella91](https://github.com/easy-peasy-robotics/assignment_git-robertorovella91) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---

@@ -54,7 +54,14 @@
   {
     "username": "robertorovella91",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-robertorovella91",
+        "status": ":x:",
+        "last_commit_date": "2017-10-15 18:43:57 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
