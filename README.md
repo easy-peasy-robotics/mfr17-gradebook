@@ -38,3 +38,17 @@
 
 ---
 
+
+### [**piscab**](https://github.com/piscab) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**NovelloDavide**](https://github.com/NovelloDavide) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
