@@ -10,7 +10,7 @@
         "score": 1
       }
     ],
-    "score": 1
+    "score": 0
   },
   {
     "username": "joseph280",
@@ -19,7 +19,7 @@
       {
         "name": "assignment_git-joseph280",
         "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-19 18:36:21 UTC",
+        "last_commit_date": "2017-11-19 17:43:29 UTC",
         "score": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "name": "assignment_git-robertorovella91",
         "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-19 18:42:23 UTC",
+        "last_commit_date": "2017-11-19 17:43:47 UTC",
         "score": 1
       }
     ],
@@ -67,15 +67,8 @@
   {
     "username": "piscab",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-piscab",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-20 22:57:10 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "NovelloDavide",
@@ -93,14 +86,7 @@
   {
     "username": "Nicolacarrino",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-Nicolacarrino",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-21 10:05:54 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   }
 ]
