@@ -22,17 +22,6 @@
 ---
 
 
-### [**lorenzodaidone**](https://github.com/lorenzodaidone) grade
-
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_git-lorenzodaidone](https://github.com/easy-peasy-robotics/assignment_git-lorenzodaidone) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
-
----
-
-
 ### [**graitanto21**](https://github.com/graitanto21) grade
 
 | assignment | status | score |
