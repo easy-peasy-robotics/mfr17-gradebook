@@ -211,8 +211,8 @@
     "assignments": [
       {
         "name": "assignment_git-RafGiammario",
-        "status": ":x:",
-        "last_commit_date": "2017-12-02 11:53:33 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-12-02 12:23:31 UTC",
         "score": 1
       },
       {
@@ -222,6 +222,6 @@
         "score": 5
       }
     ],
-    "score": 1
+    "score": 2
   }
 ]

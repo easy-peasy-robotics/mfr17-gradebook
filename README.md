@@ -109,10 +109,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-RafGiammario](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-RafGiammario) | :white_check_mark: | **1** |
-| [assignment_git-RafGiammario](https://github.com/easy-peasy-robotics/assignment_git-RafGiammario) | :x: | **0** |
+| [assignment_git-RafGiammario](https://github.com/easy-peasy-robotics/assignment_git-RafGiammario) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-RafGiammario](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-RafGiammario) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
