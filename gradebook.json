@@ -50,14 +50,7 @@
   {
     "username": "RafGiammario",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-RafGiammario",
-        "status": ":x:",
-        "last_commit_date": "",
-        "score": 1
-      }
-    ],
+    "assignments": [],
     "score": 0
   }
 ]
