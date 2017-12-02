@@ -23,6 +23,7 @@
 | [assignment_git-joseph280](https://github.com/easy-peasy-robotics/assignment_git-joseph280) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-joseph280](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-joseph280) | :white_check_mark: | **10** |
 | [assignment_control-pid-joseph280](https://github.com/easy-peasy-robotics/assignment_control-pid-joseph280) | :white_check_mark: | **4** |
+| [assignment_closest-blob-joseph280](https://github.com/easy-peasy-robotics/assignment_closest-blob-joseph280) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
