@@ -94,6 +94,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-ahmadgazar](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-ahmadgazar) | :white_check_mark: | **1** |
 | [assignment_git-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_git-ahmadgazar) | :white_check_mark: | **1** |
+| [assignment_yarp-find-rgb-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ahmadgazar) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
