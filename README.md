@@ -59,8 +59,9 @@
 | [tutorial_yarp-basics-piscab](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-piscab) | :white_check_mark: | **1** |
 | [assignment_git-piscab](https://github.com/easy-peasy-robotics/assignment_git-piscab) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-piscab](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-piscab) | :white_check_mark: | **10** |
+| [assignment_control-pid-piscab](https://github.com/easy-peasy-robotics/assignment_control-pid-piscab) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
 ---
 
