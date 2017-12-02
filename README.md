@@ -52,6 +52,7 @@
 | [assignment_git-robertorovella91](https://github.com/easy-peasy-robotics/assignment_git-robertorovella91) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-robertorovella91](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-robertorovella91) | :white_check_mark: | **10** |
 | [assignment_control-pid-robertorovella91](https://github.com/easy-peasy-robotics/assignment_control-pid-robertorovella91) | :x: | **0** |
+| [assignment_closest-blob-robertorovella91](https://github.com/easy-peasy-robotics/assignment_closest-blob-robertorovella91) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
