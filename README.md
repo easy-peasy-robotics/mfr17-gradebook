@@ -108,6 +108,7 @@
 | [assignment_git-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_git-ahmadgazar) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ahmadgazar) | :white_check_mark: | **10** |
 | [assignment_control-pid-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_control-pid-ahmadgazar) | :white_check_mark: | **14** |
+| [assignment_closest-blob-ahmadgazar](https://github.com/easy-peasy-robotics/assignment_closest-blob-ahmadgazar) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-26-brightgreen.svg?style=flat-square)
 
