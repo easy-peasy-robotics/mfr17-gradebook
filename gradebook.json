@@ -27,7 +27,13 @@
   },
   {
     "username": "graitanto21",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_yarp-basics-graitanto21",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [
       {
         "name": "assignment_git-graitanto21",
@@ -36,7 +42,7 @@
         "score": 1
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "robertorovella91",
