@@ -37,11 +37,7 @@
 
 ### [**NovelloDavide**](https://github.com/NovelloDavide) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_git-NovelloDavide](https://github.com/easy-peasy-robotics/assignment_git-NovelloDavide) | :white_check_mark: | **1** |
-
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 

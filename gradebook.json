@@ -32,15 +32,8 @@
   {
     "username": "NovelloDavide",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-NovelloDavide",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-19 15:41:55 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "Nicolacarrino",
