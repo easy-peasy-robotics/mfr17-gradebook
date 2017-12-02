@@ -84,9 +84,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarp-basics-Nicolacarrino](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-Nicolacarrino) | :white_check_mark: | **1** |
 | [assignment_git-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_git-Nicolacarrino) | :white_check_mark: | **1** |
-| [assignment_yarp-find-rgb-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nicolacarrino) | :x: | **0** |
+| [assignment_yarp-find-rgb-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nicolacarrino) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
 ---
 
