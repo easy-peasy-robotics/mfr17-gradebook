@@ -262,8 +262,14 @@
         "status": ":white_check_mark:",
         "last_commit_date": "2017-12-02 13:52:06 UTC",
         "score": 10
+      },
+      {
+        "name": "assignment_control-pid-RafGiammario",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-11-13 19:26:30 UTC",
+        "score": 8
       }
     ],
-    "score": 12
+    "score": 20
   }
 ]
