@@ -106,7 +106,14 @@
   {
     "username": "RafGiammario",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-RafGiammario",
+        "status": ":x:",
+        "last_commit_date": "2017-10-15 18:43:57 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   }
 ]
