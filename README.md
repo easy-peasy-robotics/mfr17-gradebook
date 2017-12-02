@@ -8,6 +8,7 @@
 | [assignment_git-ilnerdchuck](https://github.com/easy-peasy-robotics/assignment_git-ilnerdchuck) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-ilnerdchuck](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ilnerdchuck) | :white_check_mark: | **10** |
 | [assignment_control-pid-ilnerdchuck](https://github.com/easy-peasy-robotics/assignment_control-pid-ilnerdchuck) | :white_check_mark: | **18** |
+| [assignment_closest-blob-ilnerdchuck](https://github.com/easy-peasy-robotics/assignment_closest-blob-ilnerdchuck) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-30-brightgreen.svg?style=flat-square)
 
