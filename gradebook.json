@@ -54,15 +54,8 @@
   {
     "username": "piscab",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_git-piscab",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-11-20 22:57:10 UTC",
-        "score": 1
-      }
-    ],
-    "score": 1
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "NovelloDavide",
