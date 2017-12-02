@@ -76,6 +76,7 @@
 | [tutorial_yarp-basics-NovelloDavide](https://github.com/easy-peasy-robotics/tutorial_yarp-basics-NovelloDavide) | :white_check_mark: | **1** |
 | [assignment_git-NovelloDavide](https://github.com/easy-peasy-robotics/assignment_git-NovelloDavide) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-NovelloDavide](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-NovelloDavide) | :white_check_mark: | **10** |
+| [assignment_control-pid-NovelloDavide](https://github.com/easy-peasy-robotics/assignment_control-pid-NovelloDavide) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
