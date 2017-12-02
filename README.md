@@ -94,6 +94,7 @@
 | [assignment_git-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_git-Nicolacarrino) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Nicolacarrino) | :white_check_mark: | **10** |
 | [assignment_control-pid-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_control-pid-Nicolacarrino) | :white_check_mark: | **8** |
+| [assignment_closest-blob-Nicolacarrino](https://github.com/easy-peasy-robotics/assignment_closest-blob-Nicolacarrino) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
