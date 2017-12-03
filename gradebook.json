@@ -319,9 +319,9 @@
       },
       {
         "name": "assignment_control-pid-RafGiammario",
-        "status": ":x:",
-        "last_commit_date": "2017-12-03 10:42:39 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-12-03 11:55:24 UTC",
+        "score": 6
       },
       {
         "name": "assignment_closest-blob-RafGiammario",
@@ -330,6 +330,6 @@
         "score": 5
       }
     ],
-    "score": 12
+    "score": 18
   }
 ]
