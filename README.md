@@ -128,9 +128,9 @@
 | [assignment_git-RafGiammario](https://github.com/easy-peasy-robotics/assignment_git-RafGiammario) | :white_check_mark: | **1** |
 | [assignment_yarp-find-rgb-RafGiammario](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-RafGiammario) | :white_check_mark: | **10** |
 | [assignment_control-pid-RafGiammario](https://github.com/easy-peasy-robotics/assignment_control-pid-RafGiammario) | :white_check_mark: | **6** |
-| [assignment_closest-blob-RafGiammario](https://github.com/easy-peasy-robotics/assignment_closest-blob-RafGiammario) | :x: | **0** |
+| [assignment_closest-blob-RafGiammario](https://github.com/easy-peasy-robotics/assignment_closest-blob-RafGiammario) | :white_check_mark: | **20** |
 
-![total score](https://img.shields.io/badge/total_score-18-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-38-brightgreen.svg?style=flat-square)
 
 ---
 
